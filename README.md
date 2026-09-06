@@ -28,7 +28,7 @@ The main objectives of this project are:
 
 ---
 
-## Cheat Sheet Table
+## Subnetting
 
 | **Bit**     |  **16** | **15** | **14** | **13** | **12** | **11** | **10** |  **9** |  **8** |  **7** |  **6** |  **5** |  **4** |  **3** |  **2** |  **1** |  **0** |
 | ----------- | ------: | -----: | -----: | -----: | -----: | -----: | -----: | -----: | -----: | -----: | -----: | -----: | -----: | -----: | -----: | -----: | -----: |
@@ -1295,6 +1295,7 @@ SLAAC and DHCPv6 can also be used together depending on the network configuratio
 
 # 27. IPv6 and ICMPv6
 
+Internet Control Message Protocol (ICMP)
 ICMPv6 is an important part of IPv6 operation.
 
 It is used for:
